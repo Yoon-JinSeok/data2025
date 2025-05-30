@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import os
 from openai import OpenAI
 
 # OpenAI 클라이언트 초기화 (v1 방식)
